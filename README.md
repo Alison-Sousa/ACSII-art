@@ -27,7 +27,7 @@ Original Image:
 
 ASCII Image:
 
-![ascii_image](img/perfil_acsii.png)
+![ascii_image](img/perfil_acsii.PNG)
 
 
 Enjoy your ASCII art!
