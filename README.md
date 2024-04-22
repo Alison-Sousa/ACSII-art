@@ -23,11 +23,11 @@ Note: The conversion details, such as character mapping and dimensions, are hand
 ## Example
 Original Image:
 
-![original_image](img/perfil_original.jpg)
+<img src="img/perfil_original.jpg" width="250" alt="original_image">
 
 ASCII Image:
 
-![ascii_image](img/perfil_acsii.PNG)
+<img src="img/perfil_acsii.PNG" width="250" alt="ascii_image">
 
 
 Enjoy your ASCII art!
